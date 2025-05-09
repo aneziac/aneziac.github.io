@@ -1,7 +1,7 @@
 #import "alta-typst.typ": alta, term, skill, styled-link
 
 #alta(
-  name: "Nathaniel Annau",
+  name: "Nate Annau",
   links: (
     (name: "phone", link: "", display: "(650) 670-6379"),
     (name: "email", link: "mailto:nateannau@gmail.com"),
@@ -37,9 +37,9 @@
     _HiveTop_\
     #term[Jun 2024 --- Aug 2024][Berlin, Germany]
 
-    - Developed key pages of a frontend platform using `Vue` and `Tailwind` with `Primevue` components
+    - Developed key pages, such as a graph dashboard for device telemetry, of a frontend platform using `Vue` and `Tailwind` with `Primevue` components
     - Created REST endpoints in the `Rust` backend to facilitate data transmission from embedded devices
-    - Architected major elements of the CI / CD, linting, and other tooling setups
+    - Architected major elements of our CI / CD setup, using Github actions, `ESLint`, and `mypy`
 
     === STEM Center Tutor \
     _Cañada College_\
@@ -52,7 +52,7 @@
     _PandaWhale_\
     #term[Jun 2021 --- Aug 2021][Palo Alto, CA]
 
-    - Wrote a demo iOS app in `Swift` to solve a social networking problem involving image processing and worked with computer vision libraries
+    - Wrote a prototype iOS app in `Swift` to solve a social networking problem involving image processing and worked with `VisionKit`
     - Built a `Python` HTML server and `SQLite` backend to store user data transmitted from the app
     - Thoroughly tested and documented demo, presenting final project to company founders
 

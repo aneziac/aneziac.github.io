@@ -1,0 +1,69 @@
+[personal]
+first_name = "Nate"
+last_name = "Annau"
+profile_image = "portrait.png"
+language = "en"
+include_icons = false
+
+[personal.info]
+address = "San Carlos, CA"
+telephone = "+1 (650) 670-6379"
+
+[personal.info.email]
+link = "mailto:nateannau@gmail.com"
+label = "nateannau@gmail.com"
+
+[personal.info.linkedin]
+link = "https://www.linkedin.com/in/nate-annau-2247a32a9/"
+label = "linkedin.com/in/nate-annau"
+
+[personal.info.github]
+link = "https://github.com/aneziac"
+label = "github.com/aneziac"
+
+[personal.icon]
+address = "house"
+telephone = "phone"
+email = "envelope"
+linkedin = "linkedin"
+github = "github"
+homepage = "globe"
+
+[section.icon]
+education = "graduation-cap"
+experience = "briefcase"
+languages = "language"
+other_experience = "wrench"
+personal = "brain"
+profile = "id-card"
+references = "users"
+skills = "cogs"
+
+# To change fill_color to white, replace value with "#ffffff"
+[layout]
+fill_color = "#fffce5"
+paper_size = "us-letter"
+accent_color = "#d4d2cc"
+# deafult value is 71%
+left_pane_width = "71%"
+
+[layout.text]
+font = "Libertinus Serif"
+size = "10pt"
+cover_letter_size = "11pt"
+
+[layout.text.color]
+light = "#ededef"
+medium = "#78787e"
+dark = "#3c3c42"
+
+[language.en]
+subtitle = "Undergraduate CS and Math Student"
+
+[language.es]
+subtitle = "Ingeniero de software con un talento para soluciones de IA amigables para humanos"
+
+[import]
+path = "@local/grotesk-cv:1.0.3"
+lib-path = "lib.typ"
+fontawesome = "@preview/fontawesome:0.5.0"

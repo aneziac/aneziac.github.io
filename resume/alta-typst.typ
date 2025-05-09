@@ -1,4 +1,4 @@
-#let background_color = rgb("#f9f5d7")
+#let background_color = rgb("#fffce5")
 #let primary_colour = rgb("#075579") // vivid purple
 #let secondary_color = rgb("#8f3f71")
 #let link_colour = rgb("#9d0006") // blue
@@ -86,7 +86,7 @@
 ) = {
   set text(9.8pt, font: "IBM Plex Sans")
   set page(
-    margin: (x: 45pt, y: 40pt),
+    margin: (x: 45pt, y: 38pt),
     paper: "us-letter",
     fill: background_color
   )
