@@ -1,10 +1,8 @@
 +++
-date = '2025-02-24T00:50:47-08:00'
-draft = true
-title = 'Roman_history1'
+date = '2023-09-08T22:06:47-08:00'
+draft = false
+title = 'How Cicero rose from nothing to become one of the most famous Senators in Rome - The Trial of Gaius Verres (70 BCE)'
 +++
-
-# How Cicero rose from nothing to become one of the most famous Senators in Rome - The Trial of Gaius Verres (70 BCE)
 
 Marcus Tullius Cicero is known today as one of the greatest orators and lawyers in Roman history.
 His leadership and steadfast commitment to his principles charted the Roman Republic through some of its toughest challenges, although it ultimately wouldn't be quite enough.

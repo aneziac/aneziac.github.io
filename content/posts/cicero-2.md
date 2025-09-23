@@ -1,10 +1,8 @@
 +++
-date = '2025-02-24T00:54:19-08:00'
-draft = true
-title = 'Roman_history2'
+date = '2023-09-10T17:38:19-08:00'
+draft = false
+title = 'The attempted coup that nearly toppled the Republic - The Catalinarian Conspiracy (62 BCE)'
 +++
-
-# The attempted coup that nearly toppled the Republic - The Catalinarian Conspiracy (62 BCE)
 
 In the last post, we saw how Cicero's prosecution of the Sicilian governor Gaius Verres catapulted him into political stardom. This was a huge boost to his career, but it didn't come without making him a few enemies. In the next handful of years, Cicero deftly maneuvered his way into being elected praetor, then consul, but built himself a steadily longer list of enemies in the process.
 

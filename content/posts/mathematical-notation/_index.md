@@ -1,6 +1,7 @@
 ---
 title: Mathematical notation
 date: 2019-03-08
+draft: true
 description: A brief sample of mathematical notation in Congo.
 tags: ["sample", "katex", "maths", "shortcodes"]
 ---
