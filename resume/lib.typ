@@ -481,8 +481,8 @@
     fill: rgb(metadata.layout.fill_color),
     paper: metadata.layout.paper_size,
     margin: (
-      left: 1.2cm,
-      right: 1.2cm,
+      left: 1cm,
+      right: 1cm,
       top: 1.6cm,
       bottom: 1.2cm,
     ),

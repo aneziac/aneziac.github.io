@@ -86,7 +86,7 @@
 ) = {
   set text(9.8pt, font: "IBM Plex Sans")
   set page(
-    margin: (x: 45pt, y: 38pt),
+    margin: (x: 35pt, y: 38pt),
     paper: "us-letter",
     fill: background_color
   )
