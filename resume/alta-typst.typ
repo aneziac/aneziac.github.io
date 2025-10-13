@@ -132,10 +132,11 @@
   )
 
   tagline
+  v(1em)
 
   columns(
     2,
-    gutter: 17pt,
+    gutter: 18pt,
     content,
   )
 }

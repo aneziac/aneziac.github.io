@@ -7,6 +7,12 @@ description: "Personal details"
 Undergraduate Mathematics and Computer Science double major at UC Santa Barbara
 {{< /lead >}}
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+Hi!
+My name is Nate, and I'm a fourth year undergrad at UC Santa Barbara.
+Currently, I am broadly interested in scientific computing, particularly physical simulations, computer graphics and techniques in numerical analysis.
+Outside of my interests in math, CS and physics, I am also an amateur historian and musician.
 
-[Download my resume](/resume.pdf) for more details about my background and experience.
+This site was made using the SSG Hugo, which seemed to me like a good compromise between features and simplicity.
+(In general, I've been meaning to get better at Go because of its impressive web capabilities, parallelization and TUI libraries, but I digress.)
+
+My Github can be found [here](https://github.com/aneziac) and my resume is [here](/resume.pdf).

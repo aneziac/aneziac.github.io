@@ -24,13 +24,14 @@
     #term[Sep 2022 --- Jun 2026][Santa Barbara, CA]
 
     Notable Coursework: Real, Numerical, and Complex Analysis; Linear Algebra; Abstract Algebra; Topology
-unit
+
     Completed a #underline[#link("https://www.ucsbdrp.org/")[Directed Reading]] and associated #underline[#link("https://github.com/aneziac/drp2025")[poster presentation]], covering Coxeter Groups and Buildings
 
     === Cañada College \
     _Dual enrollment through Cañada Middle College (4.0 GPA)_ \
     #term[Jun 2020 --- May 2022][Redwood City, CA]
 
+    #v(1em)
     == Experience
 
     === Software Engineering Intern \
