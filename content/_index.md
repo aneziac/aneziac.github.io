@@ -27,7 +27,7 @@ Sep 2023 -- Jun 2026 | Santa Barbara, CA
 
 Notable Coursework: Data Structures & Algorithms; Machine Learning; Information Theory; Computer Security; Quantum Computing; Programming Language Theory
 
-Researcher in the Computational Applied Sciences Laboratory, beginning in January 2026.
+Undergraduate researcher in the Computational Applied Sciences Laboratory, beginning in January 2026.
 
 ### UC Santa Barbara
 

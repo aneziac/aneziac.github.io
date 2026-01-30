@@ -27,6 +27,7 @@ projects:
     date: "Jan - Nov 2023"
     tags: ["Vue", "Typescript", "d3", "beautifulsoup", "Python"]
     url: "https://github.com/aneziac/courses_graph"
+    image: "/projects/coursesgraph.png"
     collaborators: ["Ashwin Anand"]
     weight: 2
 
@@ -35,13 +36,15 @@ projects:
     date: "Nov 2024 - present"
     tags: ["Zsh", "Lua", "Nix"]
     url: "https://github.com/aneziac/dotfiles"
-    weight: 2
+    image: "/projects/dots.png"
+    weight: 1
 
   - title: "vamos"
     description: "vamos is a website that provides transcriptions of uploaded audio files. It was built as part of the 2024-25 Project Series at the Data Science Club at UCSB. The frontend was written in Svelte and the backend was written in Flask."
     date: "Jan - May 2025"
     tags: ["Svelte", "Flask", "Tailwind"]
     url: "https://github.com/aneziac/dotfiles"
+    image: "/projects/vamos.png"
     collaborators: ["Alicia Qu", "Dustin Fisher", "Guia Llovido", "Kyle Doan", "Kelvin Fang"]
     weight: 3
 
@@ -50,6 +53,7 @@ projects:
     date: "Nov - Dec 2025"
     tags: ["Python", "async/await"]
     url: "https://github.com/aneziac/simple-blockchain"
+    image: "/projects/blockchain.png"
     collaborators: ["Jonas Chen"]
     weight: 3
 
@@ -58,6 +62,7 @@ projects:
     date: "Nov - Dec 2025"
     tags: ["litellm", "angr"]
     url: "https://github.com/aneziac/cs279-final-project"
+    image: "/projects/crs.png"
     collaborators: ["Jacob Fingerman", "Sandy Zhou"]
     weight: 2
 
@@ -65,7 +70,7 @@ projects:
     description: "This is a recreation of a raycaster I wrote in 2019, one of my earliest projects. Despite the name, only the Python implementation is complete."
     date: "Apr - Sep 2023"
     tags: ["pygame"]
-    url: https://github.com/aneziac/rustcaster"
+    url: "https://github.com/aneziac/rustcaster"
     image: "/projects/rustcaster.png"
     weight: 2
 
@@ -74,6 +79,7 @@ projects:
     date: "Oct 2024"
     tags: ["pygame"]
     url: https://github.com/aneziac/platjam"
+    image: "/projects/platjam.png"
     collaborators: ["Julian Springer", "Rushabh Taneja"]
     weight: 3
 
@@ -96,11 +102,12 @@ projects:
     weight: 2
 
   - title: "linalgeuc"
-    description: "Linalgeuc is a 3D engine for various shapes including cubes, cylinders, and planes that was built using a custom linear algebra library. t does not claim to follow best practices or be optimized in any way. Rather, linalgeuc is intended to be a fun project to learn about the implementation of linear algebra and 3D graphics programming, while trying to rederive as much as possible on my own."
+    description: "Linalgeuc is a 3D engine for various shapes including cubes, cylinders, and planes that was built using a custom linear algebra library. It does not claim to follow best practices or be optimized in any way. Rather, linalgeuc is intended to be a fun project to learn about the implementation of linear algebra and 3D graphics programming, while trying to rederive as much as possible on my own."
     date: "Apr - Aug 2020"
     tags: ["Python", "pygame"]
     url: "https://github.com/aneziac/linalgeuc"
-    weight: 3
+    image: "/projects/linalgeuc.png"
+    weight: 2
 
   - title: "skittle_sorter"
     description: "An arduino project leveraging K-means clustering and computer vision to identify the color of skittles and sort them into the right boxes. Created as part of the Cañada College Engineering Club."
@@ -137,6 +144,7 @@ projects:
     date: "Aug 2020"
     tags: ["pygame"]
     url: "https://github.com/aneziac/squirrel-run"
+    collaborators: ["Xander Annau"]
     weight: 4
 
   - title: "physics_engine"
@@ -144,6 +152,13 @@ projects:
     date: "Jan - Apr 2020"
     tags: ["pygame"]
     url: "https://github.com/aneziac/physics_engine"
+    weight: 4
+
+  - title: "wikitools"
+    description: "A collection of scripts for updating and maintaining list-class Wikipedia articles."
+    date: "Dec 2020 - Jan 2021"
+    tags: ["pandas", "geopandas", "matplotlib"]
+    url: "https://github.com/aneziac/wikitools"
     weight: 4
 
   - title: "MilitaryUpgrade"
