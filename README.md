@@ -1,7 +1,3 @@
 # Personal website
 
-To start the server
-```bash
-hugo server
-```
-
+This site is live at [nateannau.com](https://nateannau.com).
