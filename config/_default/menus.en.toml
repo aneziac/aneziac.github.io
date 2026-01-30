@@ -11,19 +11,29 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 10
+  name = "About"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
+  name = "Resume"
+  url = "/resume.pdf"
+  weight = 2
 
 [[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 20
+  weight = 3
 
 [[main]]
-  name = "About"
-  pageRef = "/"
-  weight = 10
+  name = "Notes"
+  pageRef = "notes"
+  weight = 4
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 5
 
 [[main]]
   identifier = "search"
