@@ -43,7 +43,7 @@ projects:
     description: "vamos is a website that provides transcriptions of uploaded audio files. It was built as part of the 2024-25 Project Series at the Data Science Club at UCSB. The frontend was written in Svelte and the backend was written in Flask."
     date: "Jan - May 2025"
     tags: ["Svelte", "Flask", "Tailwind"]
-    url: "https://github.com/aneziac/dotfiles"
+    url: "https://github.com/aneziac/vamos"
     image: "/projects/vamos.png"
     collaborators: ["Alicia Qu", "Dustin Fisher", "Guia Llovido", "Kyle Doan", "Kelvin Fang"]
     weight: 3
@@ -78,7 +78,7 @@ projects:
     description: "This is a platformer game written during the Fall 2024 UCSB Game Jam, concerning a cookie trying to escape rising milk."
     date: "Oct 2024"
     tags: ["pygame"]
-    url: https://github.com/aneziac/platjam"
+    url: "https://github.com/aneziac/platjam"
     image: "/projects/platjam.png"
     collaborators: ["Julian Springer", "Rushabh Taneja"]
     weight: 3
@@ -152,7 +152,7 @@ projects:
     date: "Jan - Apr 2020"
     tags: ["pygame"]
     url: "https://github.com/aneziac/physics_engine"
-    weight: 4
+    weight: 3
 
   - title: "wikitools"
     description: "A collection of scripts for updating and maintaining list-class Wikipedia articles."
