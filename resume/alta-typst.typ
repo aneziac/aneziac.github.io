@@ -1,7 +1,7 @@
-#let background_color = rgb("#fffce5")
-#let primary_colour = rgb("#075579") // vivid purple
-#let secondary_color = rgb("#8f3f71")
-#let link_colour = rgb("#9d0006") // blue
+#let background_color = rgb(250, 250, 250)
+#let primary_color    = rgb(78, 119, 234)
+#let secondary_color  = rgb(57, 130, 183)
+#let link_color       = rgb("#9d0006")
 
 #let icon(name, shift: 1.5pt) = {
   box(
@@ -52,7 +52,7 @@
     let colour = rgb("#c0c0c0") // grey
 
     if (i <= rating){
-      colour = primary_colour
+      colour = primary_color
     }
 
     box(circle(
@@ -84,9 +84,12 @@
   tagline: [],
   content,
 ) = {
-  set text(9.8pt, font: "IBM Plex Sans")
+  set text(
+    9.8pt,
+    fill: rgb(56, 58, 65),
+  )
   set page(
-    margin: (x: 35pt, y: 38pt),
+    margin: (x: 32pt, y: 38pt),
     paper: "us-letter",
     fill: background_color
   )
@@ -94,7 +97,7 @@
   show heading.where(
     level: 1
   ): it => text(
-    fill: primary_colour,
+    fill: primary_color,
     size: 20pt,
   )[
     #{it.body}
@@ -103,11 +106,11 @@
   show heading.where(
     level: 2
   ): it => text(
-      fill: primary_colour,
+      fill: primary_color,
     [
-      #{it.body}
+      #{smallcaps[#it.body]}
       #v(-7pt)
-      #line(length: 100%, stroke: 1pt + primary_colour)
+      #line(length: 100%, stroke: 1pt + primary_color)
     ]
   )
 
@@ -131,12 +134,12 @@
     align(right + bottom, findMe(links))
   )
 
-  tagline
+  emph[#tagline]
   v(1em)
 
   columns(
     2,
-    gutter: 18pt,
+    gutter: 20pt,
     content,
   )
 }

@@ -19,17 +19,16 @@
 
     Notable Coursework: Data Structures & Algorithms; Machine Learning; Quantum Computing; Functional Programming
 
+    _Beginning in Jan 2026, I am an undergraduate researcher in the #underline[#link("https://github.com/UCSB-CASL/")[Computational Applied Science Lab]], developing a CUDA-based solver for Hamilton-Jacobi Equations_
+
     === UC Santa Barbara \
     _Bachelor of Science in Mathematics (3.87 GPA)_\
     #term[Sep 2022 --- Jun 2026][Santa Barbara, CA]
 
     Notable Coursework: Real, Numerical, and Complex Analysis; Linear Algebra; Abstract Algebra; Topology
 
-    Completed a #underline[#link("https://www.ucsbdrp.org/")[Directed Reading]] and associated #underline[#link("https://github.com/aneziac/drp2025")[poster presentation]], covering Coxeter Groups and Buildings
+    _Completed a #underline[#link("https://www.ucsbdrp.org/")[Directed Reading]] and associated #underline[#link("https://github.com/aneziac/drp2025")[poster presentation]], covering Coxeter Groups and Buildings_
 
-    === Cañada College \
-    _Dual enrollment through Cañada Middle College (4.0 GPA)_ \
-    #term[Jun 2020 --- May 2022][Redwood City, CA]
 
     #v(1em)
     == Experience
@@ -64,7 +63,7 @@
 
     - In collaboration with my friend, developed a #underline[#link("https://typst.app/")[`Typst`]] package for notetaking and assignments for Math, CS, and Physics students
     - Wrote over a dozen custom environments, custom color schemes, and #underline[#link("https://github.com/EsotericSquishyy/superTemplate")[over one hundred macros for common symbols]]
-    - The package is actively maintained, has 30+ stars on Github, and is being used for a PhD thesis at a French university
+    - The package is actively maintained, has 40+ stars on Github, and is being used for a PhD thesis at a French university
 
     #v(1.5em)
 
