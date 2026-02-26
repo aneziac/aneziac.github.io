@@ -498,7 +498,7 @@
   doc,
 ) = {
   set text(
-    fill: rgb(metadata.layout.text.color.dark),
+    fill: rgb(metadata.layout.text.color.medium),
     font: metadata.layout.text.font,
     size: eval(metadata.layout.text.size),
   )

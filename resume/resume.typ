@@ -9,7 +9,7 @@
     (name: "github", link: "https://github.com/aneziac", display: "@aneziac"),
     (name: "linkedin", link: "https://www.linkedin.com/in/nate-annau-2247a32a9/", display: "linkedin.com/nate-annau"),
   ),
-  tagline: [Undergraduate Math and Computer Science Student],
+  tagline: [Math and CS student interested in Computational Science],
   [
     == Education
 
@@ -37,7 +37,7 @@
     _Playlab AI _\
     #term[Jun 2025 --- Sep 2025][Remote]
 
-    - Rigorously compared various document parsing services for RAG by developing a custom benchmarking framework
+    - Developed custom benchmarking framework to statistically evaluate 10+ document parsing services across production documents, identifying optimal parsing strategies for RAG
     - Expanded parsing and chunking capabilities significantly in the internal API, adding handling for common data formats
     - Used heavy typing features in Python, focusing on maintainability and readability, and greatly expanded unit tests
 
@@ -62,8 +62,8 @@
     ==== #link("https://github.com/EsotericSquishyy/ergo")[Ergo]
 
     - In collaboration with my friend, developed a #underline[#link("https://typst.app/")[`Typst`]] package for notetaking and assignments for Math, CS, and Physics students
-    - Wrote over a dozen custom environments, custom color schemes, and #underline[#link("https://github.com/EsotericSquishyy/superTemplate")[over one hundred macros for common symbols]]
-    - The package is actively maintained, has 40+ stars on Github, and is being used for a PhD thesis at a French university
+    - The package is actively maintained, has 50+ stars on Github, and is being used for a PhD thesis at a French university
+    - Contains over a dozen custom environments, custom color schemes, and #underline[#link("https://github.com/EsotericSquishyy/superTemplate")[over one hundred macros for common symbols]]
 
     #v(1.5em)
 
@@ -84,7 +84,7 @@
 
     #v(1.5em)
 
-    ==== CTFs
+    ==== CTFs (Cybersecurity Competitions)
 
     - Won second place out of 300+ participants in the Geo OSINT challenge at DEF CON, the world's largest hacker conference
     - As the second highest scoring individual contributor on my CTF team, #underline[#link("https://ctftime.org/team/364095")[placed in the top 6%]] in the #underline[#link("https://ctftime.org/event/2658")[PwnMe CTF Qualifier]]
@@ -96,11 +96,11 @@
 
     #skill("Python (numpy, pandas, Flask)", 4)
     #skill("Git", 4)
-    #skill("Linux (Ubuntu, Arch, Nix)", 4)
+    #skill("Linux (Ubuntu, Arch, CentOS, Nix)", 4)
+    #skill("C++ and CUDA", 3)
     #skill("TypeScript (Vue.js, Svelte)", 3)
     #skill("Neovim", 3)
     #skill("Rust", 2)
-    #skill("C++", 2)
     // #skill("Lua", 2)
     // #skill("OCaml", 1)
     // #skill("C", 1)
