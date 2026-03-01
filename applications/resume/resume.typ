@@ -1,4 +1,4 @@
-#import "alta-typst.typ": alta, term, skill, styled-link
+#import "alta-resume.typ": alta, term, skill, styled-link
 
 #alta(
   name: "Nate Annau",
