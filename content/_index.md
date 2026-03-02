@@ -8,7 +8,7 @@ description: "Personal details"
 <h1 style="display: flex; justify-content: space-between; align-items: baseline;">Nate Annau <span><a href="https://github.com/aneziac" style="color: white; text-decoration: none;">{{< icon "github" >}}</a> <a href="https://www.linkedin.com/in/nate-annau-2247a32a9/" style="color: white; text-decoration: none;">{{< icon "linkedin" >}}</a></span></h1>
 
 {{< lead >}}
-Undergraduate Mathematics and Computer Science double major at UC Santa Barbara
+Undergraduate Mathematics and Computer Science student at UC Santa Barbara interested in Computational Science
 {{< /lead >}}
 
 Hi!

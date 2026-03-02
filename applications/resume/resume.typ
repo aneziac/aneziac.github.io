@@ -3,7 +3,7 @@
 #alta(
   name: "Nate Annau",
   links: (
-    (name: "phone", link: "", display: "(650) 670-6379"),
+    (name: "phone", link: "", display: "+1 (650) 670-6379"),
     (name: "email", link: "mailto:nateannau@gmail.com"),
     (name: "website", link: "https://nateannau.com", display: "nateannau.com"),
     (name: "github", link: "https://github.com/aneziac", display: "@aneziac"),
