@@ -9,7 +9,7 @@
     (name: "github", link: "https://github.com/aneziac", display: "@aneziac"),
     (name: "linkedin", link: "https://www.linkedin.com/in/nate-annau-2247a32a9/", display: "linkedin.com/nate-annau"),
   ),
-  tagline: [Math and CS undergraduate interested in Computational Science],
+  tagline: [Math and CS undergraduate interested in Computational Science, Computer Security, and Machine Learning],
   [
     == Education
 
@@ -17,22 +17,14 @@
     _Dual Bachelors of Science in Mathematics and Computer Science (3.87 GPA)_\
     #term[Sep 2022 --- Jun 2026][Santa Barbara, CA]
 
-    === Cañada Middle College \
+    === Sequoia High School \
     #term[Jun 2020 --- May 2022][Redwood City, CA] \
-    This was a full time Dual Enrollment program for High School students. \
+    At Sequoia, I participated in Cañada Middle College, a full time Dual Enrollment program. \
+    Thus, I attended high school classes simultaneously with Community College classes, so I could earn credit for university. \
     I received my diploma from Sequoia High School.
 
     === Mid-Peninsula High School \
     #term[Sep 2018 --- Jun 2020][Menlo Park, CA]
-
-    === Altschool \
-    #term[Aug 2016 --- Jun 2018][Palo Alto, CA]
-
-    === Central Middle School \
-    #term[Aug 2014 --- Jun 2016][San Carlos, CA]
-
-    === White Oaks Elementary School \
-    #term[Aug 2009 --- Jun 2014][San Carlos, CA]
 
     #v(1em)
     == Research Experience
@@ -50,7 +42,10 @@
     With fellow undergraduate Jesse Cobb, read _Geometric and Topological Aspects of Coxeter Groups and Buildings_ by Anne Thomas and parts of _Reflection Groups and Coxeter Groups_ by James Humphreys, under the supervision of PhD student Benedict Lee.
     Met weekly to discuss the readings, and presented the #underline[#link("https://github.com/aneziac/drp2025")[associated poster]] at the DRP showcase.
 
+    #v(1em)
     == Work Experience
+
+    _In the summer of 2026, I will be working on a cybersecurity research project  in the United States Department of Energy, at Sandia National Laboratories._
 
     === Software Engineering Intern \
     _Playlab AI _\
@@ -89,6 +84,7 @@
 
     Sorted and packaged food for low-income communities.
 
+    #v(1em)
     == Projects and Competitions
 
     ==== #link("https://github.com/EsotericSquishyy/ergo")[Ergo]
@@ -97,7 +93,7 @@
     - The package is actively maintained, has 50+ stars on Github, and is being used for a PhD thesis at a French university
     - Contains over a dozen custom environments, custom color schemes, and #underline[#link("https://github.com/EsotericSquishyy/superTemplate")[over one hundred macros for common symbols]]
 
-    #v(1.5em)
+    #v(0.5em)
 
     ==== #link("https://github.com/aneziac/courses_graph")[Courses Graph]
 
@@ -106,7 +102,7 @@
     - Presented working prototype in front of audience of peers and industry judges at the 2023 Coders SB Project Showcase, winning third place out of \~35 projects
     - At SBHacks 2025, extended this general concept to a #underline[#link("https://github.com/aneziac/proof_wiki_vis")[visualization of the dependency graph of Proof Wiki]]
 
-    #v(1.5em)
+    #v(0.5em)
 
     ==== Open Source Contributions
 
@@ -114,12 +110,28 @@
     - Authored #underline[#link("https://en.wikipedia.org/wiki/Special:Contributions/Humsorgan")[just under one thousand Wikipedia contributions]], and wrote several tools to help automate data collection
     - Made corrections and wrote a chapter for a popular #underline[#link("https://github.com/wmboyles/Math-Summaries")[online summary textbook of early undergraduate math courses]]
 
-    #v(1.5em)
+    #v(0.5em)
 
     ==== CTFs (Cybersecurity Competitions)
 
     - Won second place out of 300+ participants in the Geo OSINT challenge at DEF CON, the world's largest hacker conference
+    - As Team Captain, led a 10 person team to 12th place in iCTF 2026
     - As the second highest scoring individual contributor on my CTF team, #underline[#link("https://ctftime.org/team/364095")[placed in the top 6%]] in the #underline[#link("https://ctftime.org/event/2658")[PwnMe CTF Qualifier]]
-    - As the third highest scoring individual contributor on the UCSB CTF team, placed in the top 15% in the #underline[#link("https://ctftime.org/event/2539/")[HackTheBox Binary Badlands University CTF]]
+    - Participated in 10+ CTFs in 2025, the second most of any team member. We ended 2025 as the #underline[#link("https://ctftime.org/team/364095")[61st ranked team]] in the United States
+
+    #v(1em)
+    == Programming Languages and Tools
+
+    #skill("Python (numpy, pandas, Flask)", 4)
+    #skill("Git", 4)
+    #skill("Linux (Ubuntu, Arch, CentOS, Nix)", 4)
+    #skill("C++ and CUDA", 3)
+    #skill("TypeScript (Vue.js, Svelte)", 3)
+    #skill("Neovim", 3)
+    #skill("Rust", 2)
+
+    #v(1em)
+    == Languages
+    *English* -- Native *| German* -- Approx B1 *| Spanish* -- A1
   ]
 )
