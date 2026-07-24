@@ -6,7 +6,7 @@ baseURL = "https://nateannau.com/"
 defaultContentLanguage = "en"
 
 copyright = "&copy; 2026 Nate Annau"
-enableRobotsTXT = true
+enableRobotsTXT = false
 summaryLength = 0
 
 [pagination]
